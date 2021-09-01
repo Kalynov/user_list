@@ -1,0 +1,40 @@
+.main {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.inputWrapper {
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+}
+
+.inputWrapper span {
+    font-size: 12px;
+    color: brown;
+}
+
+.form{
+    display: flex;
+    justify-content: flex-start;
+    margin: 10px
+}
+
+label{
+    margin: 3px 5px 3px 20px ;
+}
+
+.button{
+    margin: 2px;
+}
+
+.hiden {
+    display: none;
+    pointer-events: none;
+}
+
+.error {
+    border-color: brown;
+    color: brown;   
+}
