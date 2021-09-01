@@ -7,3 +7,4 @@ test task for Alar Studios
     npm dev
 
 или можно посмотреть на gitHub Pages 
+https://kalynov.github.io/user_list/
